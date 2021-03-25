@@ -31,3 +31,8 @@
 
 en:
   hello: "Hello world"
+
+  simple_calendar:
+    previous: "working_previous"
+    next: "working_next"
+    week: "broken_week"
