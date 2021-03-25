@@ -163,7 +163,7 @@ GEM
       childprocess (>= 0.5, < 4.0)
       rubyzip (>= 1.2.2)
     semantic_range (3.0.0)
-    simple_calendar (2.4.1)
+    simple_calendar (2.4.2)
       rails (>= 3.0)
     spring (2.1.1)
     sprockets (4.0.2)
